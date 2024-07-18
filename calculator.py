@@ -45,26 +45,3 @@ def main():
     rewind()
 
 main()
-
-#    def rr4th():
- #       print("rewind + 4th times")
- #       a = magsize
- #       totalbullets = a
-#        bullets = a
- #       while (a >= 4):
-  #          a = a - 2
-   #         totalbullets = totalbullets + 2
-   #         bullets = bullets + 2
-   #     a = math.floor(bullets/2)
-   #     if (a >= 4):
-   #         while (a >= 4):
-    #            a = a - 2
-    #            totalbullets = totalbullets + 2
-    #            bullets = bullets + 2
-    #        a = math.floor(bullets/2)
-    #    else:
-    #        finalshots = a + totalbullets
-    #    print("G",totalbullets + a)
-    #rr4th()
-
-
